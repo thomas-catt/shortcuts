@@ -1,3 +1,5 @@
-# some-bruhness
+# Shortcut links
 
-ayo i do some bruhness here uwu
+random shortcut stuff n shit
+
+- `/cod-key`: CoD4 Key
